@@ -15,11 +15,11 @@ using System.Windows.Shapes;
 namespace WPFlayout
 {
     /// <summary>
-    /// StackPanel.xaml 的交互逻辑
+    /// StackPanel_VerticalAlignment.xaml 的交互逻辑
     /// </summary>
-    public partial class StackPanel : Window
+    public partial class StackPanel_VerticalAlignment : Window
     {
-        public StackPanel()
+        public StackPanel_VerticalAlignment()
         {
             InitializeComponent();
         }

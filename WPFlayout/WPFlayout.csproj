@@ -59,8 +59,11 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="StackPanel.xaml.cs">
-      <DependentUpon>StackPanel.xaml</DependentUpon>
+    <Compile Include="StackPanel_HorizontalAlignment.xaml.cs">
+      <DependentUpon>StackPanel_HorizontalAlignment.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StackPanel_VerticalAlignment.xaml.cs">
+      <DependentUpon>StackPanel_VerticalAlignment.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
@@ -91,7 +94,11 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Page Include="StackPanel.xaml">
+    <Page Include="StackPanel_HorizontalAlignment.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="StackPanel_VerticalAlignment.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
