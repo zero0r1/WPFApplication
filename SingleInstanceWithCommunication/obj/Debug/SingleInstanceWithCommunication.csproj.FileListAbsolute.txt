@@ -1,0 +1,31 @@
+C:\Users\leahd\Documents\Visual Studio 2012\Projects\WpfApplication\SingleInstanceWithCommunication\bin\Debug\SingleInstanceWithCommunication.exe.config
+C:\Users\leahd\Documents\Visual Studio 2012\Projects\WpfApplication\SingleInstanceWithCommunication\obj\Debug\MainWindow.g.cs
+C:\Users\leahd\Documents\Visual Studio 2012\Projects\WpfApplication\SingleInstanceWithCommunication\obj\Debug\Window1.g.cs
+C:\Users\leahd\Documents\Visual Studio 2012\Projects\WpfApplication\SingleInstanceWithCommunication\obj\Debug\App.g.cs
+C:\Users\leahd\Documents\Visual Studio 2012\Projects\WpfApplication\SingleInstanceWithCommunication\obj\Debug\SingleInstanceWithCommunication_MarkupCompile.cache
+C:\Users\leahd\Documents\Visual Studio 2012\Projects\WpfApplication\SingleInstanceWithCommunication\obj\Debug\SingleInstanceWithCommunication_MarkupCompile.lref
+C:\Users\leahd\Documents\Visual Studio 2012\Projects\WpfApplication\SingleInstanceWithCommunication\bin\Debug\SingleInstanceWithCommunication.exe
+C:\Users\leahd\Documents\Visual Studio 2012\Projects\WpfApplication\SingleInstanceWithCommunication\bin\Debug\SingleInstanceWithCommunication.pdb
+C:\Users\leahd\Documents\Visual Studio 2012\Projects\WpfApplication\SingleInstanceWithCommunication\obj\Debug\MainWindow.baml
+C:\Users\leahd\Documents\Visual Studio 2012\Projects\WpfApplication\SingleInstanceWithCommunication\obj\Debug\Window1.baml
+C:\Users\leahd\Documents\Visual Studio 2012\Projects\WpfApplication\SingleInstanceWithCommunication\obj\Debug\SingleInstanceWithCommunication.g.resources
+C:\Users\leahd\Documents\Visual Studio 2012\Projects\WpfApplication\SingleInstanceWithCommunication\obj\Debug\SingleInstanceWithCommunication.Properties.Resources.resources
+C:\Users\leahd\Documents\Visual Studio 2012\Projects\WpfApplication\SingleInstanceWithCommunication\obj\Debug\SingleInstanceWithCommunication.csproj.GenerateResource.Cache
+C:\Users\leahd\Documents\Visual Studio 2012\Projects\WpfApplication\SingleInstanceWithCommunication\obj\Debug\SingleInstanceWithCommunication.exe
+C:\Users\leahd\Documents\Visual Studio 2012\Projects\WpfApplication\SingleInstanceWithCommunication\obj\Debug\SingleInstanceWithCommunication.pdb
+C:\Users\leahd\Documents\GitHub\WpfApplication\SingleInstanceWithCommunication\bin\Debug\SingleInstanceWithCommunication.exe.config
+C:\Users\leahd\Documents\GitHub\WpfApplication\SingleInstanceWithCommunication\bin\Debug\SingleInstanceWithCommunication.exe
+C:\Users\leahd\Documents\GitHub\WpfApplication\SingleInstanceWithCommunication\bin\Debug\SingleInstanceWithCommunication.pdb
+C:\Users\leahd\Documents\GitHub\WpfApplication\SingleInstanceWithCommunication\obj\Debug\SingleInstanceWithCommunication.csprojResolveAssemblyReference.cache
+C:\Users\leahd\Documents\GitHub\WpfApplication\SingleInstanceWithCommunication\obj\Debug\MainWindow.g.cs
+C:\Users\leahd\Documents\GitHub\WpfApplication\SingleInstanceWithCommunication\obj\Debug\Window1.g.cs
+C:\Users\leahd\Documents\GitHub\WpfApplication\SingleInstanceWithCommunication\obj\Debug\App.g.cs
+C:\Users\leahd\Documents\GitHub\WpfApplication\SingleInstanceWithCommunication\obj\Debug\SingleInstanceWithCommunication_MarkupCompile.cache
+C:\Users\leahd\Documents\GitHub\WpfApplication\SingleInstanceWithCommunication\obj\Debug\SingleInstanceWithCommunication_MarkupCompile.lref
+C:\Users\leahd\Documents\GitHub\WpfApplication\SingleInstanceWithCommunication\obj\Debug\MainWindow.baml
+C:\Users\leahd\Documents\GitHub\WpfApplication\SingleInstanceWithCommunication\obj\Debug\Window1.baml
+C:\Users\leahd\Documents\GitHub\WpfApplication\SingleInstanceWithCommunication\obj\Debug\SingleInstanceWithCommunication.g.resources
+C:\Users\leahd\Documents\GitHub\WpfApplication\SingleInstanceWithCommunication\obj\Debug\SingleInstanceWithCommunication.Properties.Resources.resources
+C:\Users\leahd\Documents\GitHub\WpfApplication\SingleInstanceWithCommunication\obj\Debug\SingleInstanceWithCommunication.csproj.GenerateResource.Cache
+C:\Users\leahd\Documents\GitHub\WpfApplication\SingleInstanceWithCommunication\obj\Debug\SingleInstanceWithCommunication.exe
+C:\Users\leahd\Documents\GitHub\WpfApplication\SingleInstanceWithCommunication\obj\Debug\SingleInstanceWithCommunication.pdb
