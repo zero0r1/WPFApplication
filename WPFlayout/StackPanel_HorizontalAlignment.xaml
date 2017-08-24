@@ -1,0 +1,18 @@
+﻿<Window x:Class="WPFlayout.StackPanel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFlayout"
+        mc:Ignorable="d"
+        Title="HorizontalAlignment" Name="stackPanel1" Height="300" Width="300" >
+    <Grid>
+        <StackPanel  Name="stackPanel" Orientation="Vertical" >
+            <Button x:Name="button" Content="Button1" />
+            <Button x:Name="button_Copy" Content="Button2"  HorizontalAlignment="Left" />
+            <Button x:Name="button_Copy1" Content="Button3"  HorizontalAlignment="Center"  />
+            <Button x:Name="button_Copy2" Content="Button4"  HorizontalAlignment="Right"/>
+            <Button x:Name="button_Copy3" Content="Button5"  />
+        </StackPanel>
+    </Grid>
+</Window>

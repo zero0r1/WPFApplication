@@ -1,0 +1,14 @@
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\bin\Debug\WPFlayout.exe.config
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\bin\Debug\WPFlayout.exe
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\bin\Debug\WPFlayout.pdb
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\WPFlayout.csprojResolveAssemblyReference.cache
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\App.g.cs
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\WPFlayout_MarkupCompile.cache
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\WPFlayout_MarkupCompile.lref
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\WPFlayout.g.resources
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\WPFlayout.Properties.Resources.resources
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\WPFlayout.csproj.GenerateResource.Cache
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\WPFlayout.exe
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\WPFlayout.pdb
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\StackPanel.g.cs
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\StackPanel.baml
