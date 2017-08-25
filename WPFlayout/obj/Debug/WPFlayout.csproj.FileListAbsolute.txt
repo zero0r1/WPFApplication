@@ -13,3 +13,10 @@ C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\StackPanel_Ho
 C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\StackPanel_VerticalAlignment.g.cs
 C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\StackPanel_HorizontalAlignment.baml
 C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\StackPanel_VerticalAlignment.baml
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\WPFlayout.csprojResolveAssemblyReference.cache
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\DockPanel.g.cs
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\SimpleDialog.g.cs
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\WrapPanel.g.cs
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\DockPanel.baml
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\SimpleDialog.baml
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\WrapPanel.baml

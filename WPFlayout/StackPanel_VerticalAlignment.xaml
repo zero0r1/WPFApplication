@@ -7,6 +7,15 @@
         mc:Ignorable="d"
         Title="StackPanel_VerticalAlignment" Name="stackPanel1" Height="300" Width="300" >
     <Grid>
+        <!--StackPanel: 布局属性
+        Margin:
+            可以在子元素四周添加空白, Margin 是 System.Windows.thicknee 结构的属性,
+            该结构分上\下\左\右和4边.可以分别指4个边的属性, 也可以指指定一个值,则上下左右都具有相同空白
+        MinWidth\MinHeight\MaxWidth\MaxHeight:
+            设置元素大小,超过则会被剪裁.
+        Width\Height;
+            设置固定的元素大小,这个属性会将会覆盖HorizontalAlignment和VerticalAlignment属性的设置.
+        -->
         <StackPanel  Name="stackPanel" Orientation="Horizontal" >
             <Button x:Name="button" Content="Button1" />
             <Button x:Name="button_Copy" Content="Button2"  VerticalAlignment="Top" />
