@@ -62,6 +62,15 @@
     <Compile Include="DockPanel.xaml.cs">
       <DependentUpon>DockPanel.xaml</DependentUpon>
     </Compile>
+    <Compile Include="GridDialogBox.xaml.cs">
+      <DependentUpon>GridDialogBox.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GridDialogBoxByCode.xaml.cs">
+      <DependentUpon>GridDialogBoxByCode.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GridExample.xaml.cs">
+      <DependentUpon>GridExample.xaml</DependentUpon>
+    </Compile>
     <Compile Include="SimpleDialog.xaml.cs">
       <DependentUpon>SimpleDialog.xaml</DependentUpon>
     </Compile>
@@ -104,6 +113,18 @@
   </ItemGroup>
   <ItemGroup>
     <Page Include="DockPanel.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="GridDialogBox.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="GridDialogBoxByCode.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="GridExample.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

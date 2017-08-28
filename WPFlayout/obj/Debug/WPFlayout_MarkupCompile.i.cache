@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\App.xaml
-5696384886
+8-1274447974
 
-13-507507275
+161673675952
 13738642453
-DockPanel.xaml;SimpleDialog.xaml;StackPanel_HorizontalAlignment.xaml;StackPanel_VerticalAlignment.xaml;WrapPanel.xaml;
+DockPanel.xaml;GridDialogBox.xaml;GridDialogBoxByCode.xaml;GridExample.xaml;SimpleDialog.xaml;StackPanel_HorizontalAlignment.xaml;StackPanel_VerticalAlignment.xaml;WrapPanel.xaml;
 
-False
+True
 

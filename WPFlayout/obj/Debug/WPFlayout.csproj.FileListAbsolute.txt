@@ -20,3 +20,9 @@ C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\WrapPanel.g.c
 C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\DockPanel.baml
 C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\SimpleDialog.baml
 C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\WrapPanel.baml
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\GridDialogBox.g.cs
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\GridDialogBoxByCode.g.cs
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\GridExample.g.cs
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\GridDialogBox.baml
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\GridDialogBoxByCode.baml
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\GridExample.baml
