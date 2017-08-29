@@ -26,3 +26,5 @@ C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\GridExample.g
 C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\GridDialogBox.baml
 C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\GridDialogBoxByCode.baml
 C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\GridExample.baml
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\SpanningGrid.g.cs
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\SpanningGrid.baml

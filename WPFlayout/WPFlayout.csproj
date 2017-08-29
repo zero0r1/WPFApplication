@@ -37,6 +37,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
     <Reference Include="System.Xml" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Core" />
@@ -59,6 +60,9 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="CanvasDemo.xaml.cs">
+      <DependentUpon>CanvasDemo.xaml</DependentUpon>
+    </Compile>
     <Compile Include="DockPanel.xaml.cs">
       <DependentUpon>DockPanel.xaml</DependentUpon>
     </Compile>
@@ -71,8 +75,17 @@
     <Compile Include="GridExample.xaml.cs">
       <DependentUpon>GridExample.xaml</DependentUpon>
     </Compile>
+    <Compile Include="GridSplitter2.xaml.cs">
+      <DependentUpon>GridSplitter2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="IsSharedSizeScopeDemo.xaml.cs">
+      <DependentUpon>IsSharedSizeScopeDemo.xaml</DependentUpon>
+    </Compile>
     <Compile Include="SimpleDialog.xaml.cs">
       <DependentUpon>SimpleDialog.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SpanningGrid.xaml.cs">
+      <DependentUpon>SpanningGrid.xaml</DependentUpon>
     </Compile>
     <Compile Include="StackPanel_HorizontalAlignment.xaml.cs">
       <DependentUpon>StackPanel_HorizontalAlignment.xaml</DependentUpon>
@@ -112,6 +125,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Page Include="CanvasDemo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="DockPanel.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -128,7 +145,19 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="GridSplitter2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="IsSharedSizeScopeDemo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="SimpleDialog.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="SpanningGrid.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -147,6 +176,10 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="学习文档\WPF 的控制面板说明.txt" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Resource Include="Resources\5409d7babf80a.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
