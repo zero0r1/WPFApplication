@@ -78,6 +78,9 @@
     <Compile Include="GridSplitter2.xaml.cs">
       <DependentUpon>GridSplitter2.xaml</DependentUpon>
     </Compile>
+    <Compile Include="InkCanvasDemo.xaml.cs">
+      <DependentUpon>InkCanvasDemo.xaml</DependentUpon>
+    </Compile>
     <Compile Include="IsSharedSizeScopeDemo.xaml.cs">
       <DependentUpon>IsSharedSizeScopeDemo.xaml</DependentUpon>
     </Compile>
@@ -149,6 +152,10 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="InkCanvasDemo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="IsSharedSizeScopeDemo.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -177,9 +184,17 @@
   <ItemGroup>
     <Resource Include="学习文档\WPF 的控制面板说明.txt" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Resource Include="学习文档\直接派生自 ContentControl 的控件.txt" />
+  </ItemGroup>
   <ItemGroup>
     <Resource Include="Resources\5409d7babf80a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="学习文档\派生自 HeaderedContentControl 控件.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="学习文档\派生自 HeaderedItemsControl 控件.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

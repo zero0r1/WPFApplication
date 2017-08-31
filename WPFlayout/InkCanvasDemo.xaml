@@ -1,0 +1,32 @@
+﻿<Window x:Class="WPFlayout.InkCanvasDemo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFlayout"
+        mc:Ignorable="d"
+        Title="InkCanvasDemo" Height="300" Width="300">
+    <!--InkCanvas:
+    中文名为墨水板,主要用于手绘设备输入,也可以用鼠标代替输入
+    InkCanvas直接继承于FrameworkElement基类
+    -->
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal">
+            <Label>请选择一种InkCanvas模式:</Label>
+            <ComboBox Name="cb1" SelectedIndex="0" SelectionChanged="cb1_SelectionChanged">
+                <ComboBoxItem>None</ComboBoxItem>
+                <ComboBoxItem>Ink</ComboBoxItem>
+                <ComboBoxItem>GestureOnly</ComboBoxItem>
+                <ComboBoxItem>InkAndGesture</ComboBoxItem>
+                <ComboBoxItem>Select</ComboBoxItem>
+                <ComboBoxItem>EraseByPoint</ComboBoxItem>
+                <ComboBoxItem>EraseByStroke</ComboBoxItem>
+            </ComboBox>
+        </StackPanel>
+        <InkCanvas Name="inkCanvas" Background="AliceBlue" Grid.Row="1" EditingMode="None"></InkCanvas>
+    </Grid>
+</Window>

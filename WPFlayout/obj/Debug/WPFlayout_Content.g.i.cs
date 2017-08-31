@@ -8,6 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("wpf%20%e7%9a%84%e6%8e%a7%e5%88%b6%e9%9d%a2%e6%9d%bf.txt")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("%e5%ad%a6%e4%b9%a0%e6%96%87%e6%a1%a3/%e6%b4%be%e7%94%9f%e8%87%aa%20headereditemsc" +
+    "ontrol%20%e6%8e%a7%e4%bb%b6.txt")]
 
 

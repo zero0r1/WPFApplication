@@ -28,3 +28,11 @@ C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\GridDialogBox
 C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\GridExample.baml
 C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\SpanningGrid.g.cs
 C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\SpanningGrid.baml
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\CanvasDemo.g.cs
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\GridSplitter2.g.cs
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\InkCanvasDemo.g.cs
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\IsSharedSizeScopeDemo.g.cs
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\CanvasDemo.baml
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\GridSplitter2.baml
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\InkCanvasDemo.baml
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\IsSharedSizeScopeDemo.baml
