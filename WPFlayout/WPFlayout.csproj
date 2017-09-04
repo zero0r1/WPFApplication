@@ -63,6 +63,9 @@
     <Compile Include="CanvasDemo.xaml.cs">
       <DependentUpon>CanvasDemo.xaml</DependentUpon>
     </Compile>
+    <Compile Include="ContentPropertyExample.xaml.cs">
+      <DependentUpon>ContentPropertyExample.xaml</DependentUpon>
+    </Compile>
     <Compile Include="DockPanel.xaml.cs">
       <DependentUpon>DockPanel.xaml</DependentUpon>
     </Compile>
@@ -129,6 +132,10 @@
   </ItemGroup>
   <ItemGroup>
     <Page Include="CanvasDemo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ContentPropertyExample.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

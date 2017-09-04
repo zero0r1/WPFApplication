@@ -37,3 +37,5 @@ C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\GridSplitter2
 C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\InkCanvasDemo.baml
 C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\IsSharedSizeScopeDemo.baml
 C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\WPFlayout.csproj.CoreCompileInputs.cache
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\ContentPropertyExample.g.cs
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\ContentPropertyExample.baml

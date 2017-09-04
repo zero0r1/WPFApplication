@@ -1,0 +1,44 @@
+﻿<Window x:Class="WPFlayout.ContentPropertyExample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFlayout"
+        mc:Ignorable="d"
+        Title="ContentPropertyExample" Height="300" Width="300">
+    <!--
+    Conten 属性设置是一个 Object 类型的属性, 意味着可以其可以为其富裕任何类型的对象, 比如为 Button 控件
+    的 Content 可以指定一副图像, 一个容器控件等. PS: 这个特性在 Windows Forms中,需要自定义按钮表面的绘制,
+    通常需要了解很多 GDI+ 相关的知识, WPF 的内容系统使开发人员可以非常灵活地控制的外观呈现
+    -->
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Button   Grid.Row="0" Name="button2" >为按钮添加一行文本</Button>
+        <Button   Grid.Row="1"  >
+            <Button.Content>
+                <Image Source="C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\Resources\5409d7babf80a.jpg"></Image>
+            </Button.Content>
+        </Button>
+        <Button Grid.Row="2" Name="button3">
+            <Button.Content>
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\Resources\5409d7babf80a.jpg" Width="Auto" Height="Auto"  ></Image>
+                    <TextBlock>使用一个 StackPanl 图文混排</TextBlock>
+                </StackPanel>
+            </Button.Content>
+        </Button>
+        <Button  Grid.Row="3" Name="button4">
+            <Button.Content>
+                <StackPanel>
+                    <Rectangle Fill="Red" Width="100"  Height="40"></Rectangle>
+                    <TextBlock>在StackPanel 中放置自定义的图像</TextBlock>
+                </StackPanel>
+            </Button.Content>
+        </Button>
+    </Grid>
+</Window>
