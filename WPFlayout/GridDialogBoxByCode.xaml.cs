@@ -74,7 +74,7 @@ namespace WPFlayout
             btn2.Margin = new Thickness(2, 10, 10, 10);
             btn2.Content = "取消";
             btn2.Padding = new Thickness(3);
-            stk.Children.Add(btn2);
+            stk.Children.Add(btn2); 
             return grd;
         }
     }
