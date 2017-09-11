@@ -1,0 +1,30 @@
+﻿派生自 HeaderedContentControl 控件: 
+	Expander:	带标题的折叠控件
+	GroupBox:	组合框控件
+	TabItem:	TabControl控件内的一个Tab项
+
+派生自 HeaderedItemsControl 控件: 
+	MenuItem:		菜单项控件
+	ToolBar:		工具条控件
+	TreeViewItem:	树状视图项
+
+直接派生自 ContentControl 的控件: 
+	Button:			按钮控件
+	ButtonBase:		按钮控件基类
+	CheckBox:		复选框控件
+	ComboBoxItem:	单选框列表
+	Frame:			页框架
+	GridViewColumnHeader: 按钮控件的标题头
+	GroupItem:		组合框组合项
+	Label:			标签控件
+	ListBoxItem:	列表项
+	ListViewItem:	列表试图项
+	NavigationWindow: 导航窗口
+	RadioButton:	单选按钮
+	RepeatButton:	重复按钮
+	ScrollViewer:	滚动查看器, 或者称为滚动面板
+	StatusBarItem:	状态项
+	ToggleButton:	选中按钮
+	ToolTip:		提示控件
+	UserControl:	用户控件
+	Window:			WPF窗口

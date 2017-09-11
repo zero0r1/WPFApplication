@@ -60,46 +60,52 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="CanvasDemo.xaml.cs">
+    <Compile Include="ContentControl\ComplexScrollViewer.xaml.cs">
+      <DependentUpon>ComplexScrollViewer.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ContentControl\ScrollViewerDemo.xaml.cs">
+      <DependentUpon>ScrollViewerDemo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Layout\CanvasDemo.xaml.cs">
       <DependentUpon>CanvasDemo.xaml</DependentUpon>
     </Compile>
-    <Compile Include="ContentPropertyExample.xaml.cs">
+    <Compile Include="ContentControl\ContentPropertyExample.xaml.cs">
       <DependentUpon>ContentPropertyExample.xaml</DependentUpon>
     </Compile>
-    <Compile Include="DockPanel.xaml.cs">
+    <Compile Include="Layout\DockPanel.xaml.cs">
       <DependentUpon>DockPanel.xaml</DependentUpon>
     </Compile>
-    <Compile Include="GridDialogBox.xaml.cs">
+    <Compile Include="Layout\GridDialogBox.xaml.cs">
       <DependentUpon>GridDialogBox.xaml</DependentUpon>
     </Compile>
-    <Compile Include="GridDialogBoxByCode.xaml.cs">
+    <Compile Include="Layout\GridDialogBoxByCode.xaml.cs">
       <DependentUpon>GridDialogBoxByCode.xaml</DependentUpon>
     </Compile>
-    <Compile Include="GridExample.xaml.cs">
+    <Compile Include="Layout\GridExample.xaml.cs">
       <DependentUpon>GridExample.xaml</DependentUpon>
     </Compile>
-    <Compile Include="GridSplitter2.xaml.cs">
+    <Compile Include="Layout\GridSplitter2.xaml.cs">
       <DependentUpon>GridSplitter2.xaml</DependentUpon>
     </Compile>
-    <Compile Include="InkCanvasDemo.xaml.cs">
+    <Compile Include="Layout\InkCanvasDemo.xaml.cs">
       <DependentUpon>InkCanvasDemo.xaml</DependentUpon>
     </Compile>
-    <Compile Include="IsSharedSizeScopeDemo.xaml.cs">
+    <Compile Include="Layout\IsSharedSizeScopeDemo.xaml.cs">
       <DependentUpon>IsSharedSizeScopeDemo.xaml</DependentUpon>
     </Compile>
-    <Compile Include="SimpleDialog.xaml.cs">
+    <Compile Include="Layout\SimpleDialog.xaml.cs">
       <DependentUpon>SimpleDialog.xaml</DependentUpon>
     </Compile>
-    <Compile Include="SpanningGrid.xaml.cs">
+    <Compile Include="Layout\SpanningGrid.xaml.cs">
       <DependentUpon>SpanningGrid.xaml</DependentUpon>
     </Compile>
-    <Compile Include="StackPanel_HorizontalAlignment.xaml.cs">
+    <Compile Include="Layout\StackPanel_HorizontalAlignment.xaml.cs">
       <DependentUpon>StackPanel_HorizontalAlignment.xaml</DependentUpon>
     </Compile>
-    <Compile Include="StackPanel_VerticalAlignment.xaml.cs">
+    <Compile Include="Layout\StackPanel_VerticalAlignment.xaml.cs">
       <DependentUpon>StackPanel_VerticalAlignment.xaml</DependentUpon>
     </Compile>
-    <Compile Include="WrapPanel.xaml.cs">
+    <Compile Include="Layout\WrapPanel.xaml.cs">
       <DependentUpon>WrapPanel.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
@@ -131,59 +137,67 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Page Include="CanvasDemo.xaml">
+    <Page Include="ContentControl\ComplexScrollViewer.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="ContentPropertyExample.xaml">
+    <Page Include="ContentControl\ScrollViewerDemo.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="DockPanel.xaml">
+    <Page Include="Layout\CanvasDemo.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="GridDialogBox.xaml">
+    <Page Include="ContentControl\ContentPropertyExample.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="GridDialogBoxByCode.xaml">
+    <Page Include="Layout\DockPanel.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="GridExample.xaml">
+    <Page Include="Layout\GridDialogBox.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="GridSplitter2.xaml">
+    <Page Include="Layout\GridDialogBoxByCode.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="InkCanvasDemo.xaml">
+    <Page Include="Layout\GridExample.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="IsSharedSizeScopeDemo.xaml">
+    <Page Include="Layout\GridSplitter2.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="SimpleDialog.xaml">
+    <Page Include="Layout\InkCanvasDemo.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="SpanningGrid.xaml">
+    <Page Include="Layout\IsSharedSizeScopeDemo.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="StackPanel_HorizontalAlignment.xaml">
-      <Generator>MSBuild:Compile</Generator>
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Include="StackPanel_VerticalAlignment.xaml">
+    <Page Include="Layout\SimpleDialog.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="WrapPanel.xaml">
+    <Page Include="Layout\SpanningGrid.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Layout\StackPanel_HorizontalAlignment.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Layout\StackPanel_VerticalAlignment.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Layout\WrapPanel.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -192,16 +206,10 @@
     <Resource Include="学习文档\WPF 的控制面板说明.txt" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="学习文档\直接派生自 ContentControl 的控件.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <Resource Include="Resources\5409d7babf80a.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="学习文档\派生自 HeaderedContentControl 控件.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="学习文档\派生自 HeaderedItemsControl 控件.txt" />
+    <Resource Include="学习文档\内容控件.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

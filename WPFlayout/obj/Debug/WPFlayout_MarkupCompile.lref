@@ -1,17 +1,19 @@
 ﻿
 
-FC:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\CanvasDemo.xaml;;
-FC:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\ContentPropertyExample.xaml;;
-FC:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\DockPanel.xaml;;
-FC:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\GridDialogBox.xaml;;
-FC:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\GridDialogBoxByCode.xaml;;
-FC:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\GridExample.xaml;;
-FC:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\GridSplitter2.xaml;;
-FC:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\InkCanvasDemo.xaml;;
-FC:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\IsSharedSizeScopeDemo.xaml;;
-FC:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\SimpleDialog.xaml;;
-FC:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\SpanningGrid.xaml;;
-FC:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\StackPanel_HorizontalAlignment.xaml;;
-FC:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\StackPanel_VerticalAlignment.xaml;;
-FC:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\WrapPanel.xaml;;
+FC:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\ContentControl\ComplexScrollViewer.xaml;;
+FC:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\ContentControl\ScrollViewerDemo.xaml;;
+FC:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\Layout\CanvasDemo.xaml;;
+FC:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\ContentControl\ContentPropertyExample.xaml;;
+FC:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\Layout\DockPanel.xaml;;
+FC:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\Layout\GridDialogBox.xaml;;
+FC:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\Layout\GridDialogBoxByCode.xaml;;
+FC:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\Layout\GridExample.xaml;;
+FC:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\Layout\GridSplitter2.xaml;;
+FC:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\Layout\InkCanvasDemo.xaml;;
+FC:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\Layout\IsSharedSizeScopeDemo.xaml;;
+FC:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\Layout\SimpleDialog.xaml;;
+FC:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\Layout\SpanningGrid.xaml;;
+FC:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\Layout\StackPanel_HorizontalAlignment.xaml;;
+FC:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\Layout\StackPanel_VerticalAlignment.xaml;;
+FC:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\Layout\WrapPanel.xaml;;
 
