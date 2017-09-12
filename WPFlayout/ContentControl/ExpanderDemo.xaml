@@ -1,0 +1,35 @@
+﻿<Window x:Class="WPFlayout.ContentControl.ExpanderDemo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFlayout.ContentControl"
+        mc:Ignorable="d"
+        Title="ExpanderDemo" Height="300" Width="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Expander Header="WPF 知识点选择" Background="AliceBlue" IsExpanded="True" ExpandDirection="Down">
+            <StackPanel>
+                <CheckBox>WPF 程序设计指南</CheckBox>
+                <CheckBox>XAML 可扩展应用程序标记语言详解</CheckBox>
+                <CheckBox>使用 WPF 开发企业应用程序</CheckBox>
+                <CheckBox>在 WPF 中创建灵活可维护的用户界面</CheckBox>
+            </StackPanel>
+        </Expander>
+        <Expander Grid.Row="1" Header="Expander 控件简介" Background="Aqua">
+            <TextBlock TextWrapping="Wrap" Text="熟悉 Outlook 的用户可能会对其左侧的可折叠面板影响深刻, Expander 完了类似的工作, 该控件显示一个标题按钮, 单机按钮允许用户展开和折叠内容"></TextBlock>
+        </Expander>
+        <Expander Grid.Row="2">
+            <Expander.Header>
+                <StackPanel Orientation="Horizontal" Background="AliceBlue">
+                    <Image Width="10" Height="10" Source="C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\Resources\5409d7babf80a.jpg"  Stretch="None"></Image>
+                    <TextBlock Text="定制标题"/>
+                </StackPanel>
+            </Expander.Header>
+        </Expander>
+    </Grid>
+</Window>

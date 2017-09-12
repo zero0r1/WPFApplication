@@ -5,19 +5,19 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPFlayout.ContentControl"
         mc:Ignorable="d"
-        Title="编程控制滚动示例" Height="400" Width="800" >
+        Title="编程控制滚动示例" Height="300" Width="700">
     <DockPanel Background="Azure">
         <TextBlock  DockPanel.Dock="Top" FontSize="20" FontWeight="Bold" Margin="10" Text="ScRollViewer内容滚动方法"/>
         <TextBlock  DockPanel.Dock="Top" FontWeight="Bold" Margin="10" Text="ScRollViewer内容滚动方法"/>
         <StackPanel DockPanel.Dock="Left" Width="150">
-            <Button Margin="3,0,0,2" Background="White" Content="向上滚动" Click="SvlineUp"/>
-            <Button Margin="3,0,0,2" Background="White" Content="向下滚动" Click="SvLineDown"/>
-            <Button Margin="3,0,0,2" Background="White" Content="向右滚动" Click="SvlineRight"/>
-            <Button Margin="3,0,0,2" Background="White" Content="向左滚动" Click="SvlineLeft"/>
-            <Button Margin="3,0,0,2" Background="White" Content="向上翻页" Click="SvPageUp"/>
-            <Button Margin="3,0,0,2" Background="White" Content="向下翻页" Click="SvPageDown"/>
-            <Button Margin="3,0,0,2" Background="White" Content="向右翻页" Click="SvPageRight"/>
-            <Button Margin="3,0,0,2" Background="White" Content="向左翻页" Click="SvPageLeft"/>
+            <Button Margin="3,0,0,2" Background="White" Content="向上滚动"/>
+            <Button Margin="3,0,0,2" Background="White" Content="向下滚动"/>
+            <Button Margin="3,0,0,2" Background="White" Content="向右滚动"/>
+            <Button Margin="3,0,0,2" Background="White" Content="向左滚动"/>
+            <Button Margin="3,0,0,2" Background="White" Content="向上翻页"/>
+            <Button Margin="3,0,0,2" Background="White" Content="向下翻页"/>
+            <Button Margin="3,0,0,2" Background="White" Content="向右翻页"/>
+            <Button Margin="3,0,0,2" Background="White" Content="向左翻页"/>
         </StackPanel>
         <Border DockPanel.Dock="Bottom" BorderBrush="Black" Background="White" BorderThickness="2"  VerticalAlignment="Top" Margin="0,0.2,0,0">
             <ScrollViewer HorizontalScrollBarVisibility="Visible" Name="sv1" VerticalAlignment="Top">

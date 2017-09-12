@@ -63,8 +63,17 @@
     <Compile Include="ContentControl\ComplexScrollViewer.xaml.cs">
       <DependentUpon>ComplexScrollViewer.xaml</DependentUpon>
     </Compile>
+    <Compile Include="ContentControl\ExpanderDemo.xaml.cs">
+      <DependentUpon>ExpanderDemo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ContentControl\GroupBoxDemo.xaml.cs">
+      <DependentUpon>GroupBoxDemo.xaml</DependentUpon>
+    </Compile>
     <Compile Include="ContentControl\ScrollViewerDemo.xaml.cs">
       <DependentUpon>ScrollViewerDemo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ContentControl\TabItemDemo.xaml.cs">
+      <DependentUpon>TabItemDemo.xaml</DependentUpon>
     </Compile>
     <Compile Include="Layout\CanvasDemo.xaml.cs">
       <DependentUpon>CanvasDemo.xaml</DependentUpon>
@@ -141,7 +150,19 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="ContentControl\ExpanderDemo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ContentControl\GroupBoxDemo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="ContentControl\ScrollViewerDemo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ContentControl\TabItemDemo.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -210,6 +231,9 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="学习文档\内容控件.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\TestFile.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

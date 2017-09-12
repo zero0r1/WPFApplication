@@ -43,3 +43,9 @@ C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\Layout\StackP
 C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\Layout\WrapPanel.baml
 C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\ContentControl\ComplexScrollViewer.g.cs
 C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\ContentControl\ComplexScrollViewer.baml
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\ContentControl\GroupBoxDemo.g.cs
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\ContentControl\GroupBoxDemo.baml
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\ContentControl\TabItemDemo.g.cs
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\ContentControl\TabItemDemo.baml
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\ContentControl\ExpanderDemo.g.cs
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\ContentControl\ExpanderDemo.baml

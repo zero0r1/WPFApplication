@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\App.xaml
-16847575051
+19-1606468271
 
-24959802189
+27-1744446774
 14-1001767708
-ContentControl\ComplexScrollViewer.xaml;ContentControl\ScrollViewerDemo.xaml;Layout\CanvasDemo.xaml;ContentControl\ContentPropertyExample.xaml;Layout\DockPanel.xaml;Layout\GridDialogBox.xaml;Layout\GridDialogBoxByCode.xaml;Layout\GridExample.xaml;Layout\GridSplitter2.xaml;Layout\InkCanvasDemo.xaml;Layout\IsSharedSizeScopeDemo.xaml;Layout\SimpleDialog.xaml;Layout\SpanningGrid.xaml;Layout\StackPanel_HorizontalAlignment.xaml;Layout\StackPanel_VerticalAlignment.xaml;Layout\WrapPanel.xaml;
+ContentControl\ComplexScrollViewer.xaml;ContentControl\ExpanderDemo.xaml;ContentControl\GroupBoxDemo.xaml;ContentControl\ScrollViewerDemo.xaml;ContentControl\TabItemDemo.xaml;Layout\CanvasDemo.xaml;ContentControl\ContentPropertyExample.xaml;Layout\DockPanel.xaml;Layout\GridDialogBox.xaml;Layout\GridDialogBoxByCode.xaml;Layout\GridExample.xaml;Layout\GridSplitter2.xaml;Layout\InkCanvasDemo.xaml;Layout\IsSharedSizeScopeDemo.xaml;Layout\SimpleDialog.xaml;Layout\SpanningGrid.xaml;Layout\StackPanel_HorizontalAlignment.xaml;Layout\StackPanel_VerticalAlignment.xaml;Layout\WrapPanel.xaml;
 
 False
 

@@ -1,0 +1,35 @@
+﻿<Window x:Class="WPFlayout.ContentControl.TabItemDemo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFlayout.ContentControl"
+        mc:Ignorable="d"
+        Title="TabItemDemo" Height="300" Width="300">
+    <Grid>
+        <TabControl>
+            <TabItem Header="WPF 书籍">
+                <StackPanel Margin="15">
+                    <CheckBox>WPF 程序设计指南</CheckBox>
+                    <CheckBox>XAML 可扩展应用程序标记语言详解</CheckBox>
+                    <CheckBox>使用 WPF 开发企业应用程序</CheckBox>
+                    <CheckBox>在 WPF 中创建灵活可维护的用户界面</CheckBox>
+                </StackPanel>
+            </TabItem>
+            <TabItem IsSelected="True">
+                <TabItem.Header>
+                    <StackPanel Orientation="Horizontal" Background="AliceBlue">
+                        <Image Width="10" Height="10" Source="C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\Resources\5409d7babf80a.jpg"  Stretch="None"></Image>
+                        <TextBlock Text="定制标题"/>
+                    </StackPanel>
+                </TabItem.Header>
+                <StackPanel Margin="15">
+                    <RadioButton>WPF 程序设计指南</RadioButton>
+                    <RadioButton>XAML 可扩展应用程序标记语言详解</RadioButton>
+                    <RadioButton>使用 WPF 开发企业应用程序</RadioButton>
+                    <RadioButton>在 WPF 中创建灵活可维护的用户界面</RadioButton>
+                </StackPanel>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>
