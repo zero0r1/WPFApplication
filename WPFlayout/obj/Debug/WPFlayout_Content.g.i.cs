@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("resources/testfile.txt")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("resources/expanderdemo.txt")]
 
 

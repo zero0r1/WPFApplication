@@ -75,6 +75,10 @@
     <Compile Include="ContentControl\TabItemDemo.xaml.cs">
       <DependentUpon>TabItemDemo.xaml</DependentUpon>
     </Compile>
+    <Compile Include="ContentControl\ViewboxDemo.xaml.cs">
+      <DependentUpon>ViewboxDemo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Global.cs" />
     <Compile Include="Layout\CanvasDemo.xaml.cs">
       <DependentUpon>CanvasDemo.xaml</DependentUpon>
     </Compile>
@@ -166,6 +170,10 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="ContentControl\ViewboxDemo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Layout\CanvasDemo.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -234,6 +242,9 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Resources\TestFile.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\ExpanderDemo.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

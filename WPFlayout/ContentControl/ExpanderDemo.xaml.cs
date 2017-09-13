@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -22,6 +23,16 @@ namespace WPFlayout.ContentControl
         public ExpanderDemo()
         {
             InitializeComponent();
+        }
+
+        string _fileName = "ExpanderDemo.txt";
+
+        private void Expander_Expanded(object sender, RoutedEventArgs e)
+        {
+            string filePath = WPFlayout.Global.GetWorkPath(_fileName);
+            string content = File.ReadAllText(filePath, Encoding.Default);
+            txt1.Text = DateTime.Now.ToString();
+            txt1.Text += "\r\n" + content;
         }
     }
 }

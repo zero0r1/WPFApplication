@@ -30,7 +30,7 @@ namespace WPFlayout.ContentControl
 
         void InitWindows()
         {
-            string filePath = System.IO.Path.Combine(Environment.CurrentDirectory + "\\..\\..\\Resources", _fileName);
+            string filePath = WPFlayout.Global.GetWorkPath(_fileName);
             string content = File.ReadAllText(filePath, Encoding.Default);
             txt1.Text = content;
         }

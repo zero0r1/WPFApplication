@@ -21,23 +21,7 @@
             </StackPanel>
         </Expander>
         <Expander Grid.Row="1" Header="Expander 控件简介" Background="Aqua" Expanded="Expander_Expanded" >
-            <!--装饰控件: 
-            Border 控件用于为其他控件提供边框或者背景. 该控件类似于内容控件, 只能接收单个子元素. 
-            如果要显示多个子元素, 可以使用容器控件, 如StackPanel, Grid.
-            Background: 设置背景画刷
-            BorderBrush, BorderThickness: 分别指定一个画刷或者一个边框宽度.
-            CornerRadius: 设置边框圆角半径
-            Padding: 在边框和内容之间指定内边距
-            -->
-            <Border Margin="5" Background="LightYellow" BorderBrush="Black" BorderThickness="5" CornerRadius="8,8,8,8" VerticalAlignment="Top">
-                <ScrollViewer Height="100" Width="Auto">
-                    <TextBlock Name="txt1" TextWrapping="Wrap" Text="
-                           熟悉 Outlook 的用户可能会对其左侧的可折叠面板影响深刻, 
-                           Expander 完了类似的工作, 该控件显示一个标题按钮, 
-                           单机按钮允许用户展开和折叠内容">
-                    </TextBlock>
-                </ScrollViewer>
-            </Border>
+            <TextBlock TextWrapping="Wrap" Text="熟悉 Outlook 的用户可能会对其左侧的可折叠面板影响深刻, Expander 完了类似的工作, 该控件显示一个标题按钮, 单机按钮允许用户展开和折叠内容"></TextBlock>
         </Expander>
         <Expander Grid.Row="2">
             <Expander.Header>

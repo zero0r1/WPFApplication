@@ -49,3 +49,5 @@ C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\ContentContro
 C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\ContentControl\TabItemDemo.baml
 C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\ContentControl\ExpanderDemo.g.cs
 C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\ContentControl\ExpanderDemo.baml
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\ContentControl\ViewboxDemo.g.cs
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\ContentControl\ViewboxDemo.baml
