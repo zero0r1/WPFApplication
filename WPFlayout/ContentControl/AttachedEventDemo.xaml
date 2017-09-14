@@ -1,0 +1,20 @@
+﻿<Window x:Class="WPFlayout.ContentControl.AttachedEventDemo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFlayout.ContentControl"
+        mc:Ignorable="d"
+        Title="AttachedEventDemo" Height="300" Width="300">
+    <Grid>
+        <!--
+        附加事件
+        -->
+        <StackPanel ButtonBase.Click="StackPanel_Click">
+            <Button>Button1</Button>
+            <Button>Button2</Button>
+            <Button>Button3</Button>
+            <Button>Button4</Button>
+        </StackPanel>
+    </Grid>
+</Window>

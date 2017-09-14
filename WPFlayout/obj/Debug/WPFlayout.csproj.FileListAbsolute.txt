@@ -51,3 +51,7 @@ C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\ContentContro
 C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\ContentControl\ExpanderDemo.baml
 C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\ContentControl\ViewboxDemo.g.cs
 C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\ContentControl\ViewboxDemo.baml
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\ContentControl\UnderstandingDp.g.cs
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\ContentControl\UnderstandingDp.baml
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\ContentControl\AttachedEventDemo.g.cs
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\ContentControl\AttachedEventDemo.baml

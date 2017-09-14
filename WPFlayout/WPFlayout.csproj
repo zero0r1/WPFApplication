@@ -60,6 +60,9 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="ContentControl\AttachedEventDemo.xaml.cs">
+      <DependentUpon>AttachedEventDemo.xaml</DependentUpon>
+    </Compile>
     <Compile Include="ContentControl\ComplexScrollViewer.xaml.cs">
       <DependentUpon>ComplexScrollViewer.xaml</DependentUpon>
     </Compile>
@@ -74,6 +77,9 @@
     </Compile>
     <Compile Include="ContentControl\TabItemDemo.xaml.cs">
       <DependentUpon>TabItemDemo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ContentControl\UnderstandingDp.xaml.cs">
+      <DependentUpon>UnderstandingDp.xaml</DependentUpon>
     </Compile>
     <Compile Include="ContentControl\ViewboxDemo.xaml.cs">
       <DependentUpon>ViewboxDemo.xaml</DependentUpon>
@@ -150,6 +156,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Page Include="ContentControl\AttachedEventDemo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="ContentControl\ComplexScrollViewer.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -167,6 +177,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="ContentControl\TabItemDemo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ContentControl\UnderstandingDp.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
