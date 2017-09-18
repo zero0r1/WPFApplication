@@ -26,3 +26,4 @@ C:\Users\leahd\Documents\GitHub\WpfApplication\SingleInstanceApplication\obj\Deb
 C:\Users\leahd\Documents\GitHub\WpfApplication\SingleInstanceApplication\obj\Debug\SingleInstanceApplication.csproj.GenerateResource.Cache
 C:\Users\leahd\Documents\GitHub\WpfApplication\SingleInstanceApplication\obj\Debug\SingleInstanceApplication.exe
 C:\Users\leahd\Documents\GitHub\WpfApplication\SingleInstanceApplication\obj\Debug\SingleInstanceApplication.pdb
+C:\Users\leahd\Documents\GitHub\WpfApplication\SingleInstanceApplication\obj\Debug\SingleInstanceApplication.csproj.CoreCompileInputs.cache

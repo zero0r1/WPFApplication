@@ -22,3 +22,4 @@ C:\Users\leahd\Documents\GitHub\WpfApplication\CreateApplicationByHand\obj\Debug
 C:\Users\leahd\Documents\GitHub\WpfApplication\CreateApplicationByHand\obj\Debug\CreateApplicationByHand.g.resources
 C:\Users\leahd\Documents\GitHub\WpfApplication\CreateApplicationByHand\obj\Debug\CreateApplicationByHand.Properties.Resources.resources
 C:\Users\leahd\Documents\GitHub\WpfApplication\CreateApplicationByHand\obj\Debug\CreateApplicationByHand.csproj.GenerateResource.Cache
+C:\Users\leahd\Documents\GitHub\WpfApplication\CreateApplicationByHand\obj\Debug\CreateApplicationByHand.csproj.CoreCompileInputs.cache

@@ -66,6 +66,9 @@
     <Compile Include="ContentControl\ComplexScrollViewer.xaml.cs">
       <DependentUpon>ComplexScrollViewer.xaml</DependentUpon>
     </Compile>
+    <Compile Include="ContentControl\DragandDropSimpleDemo.xaml.cs">
+      <DependentUpon>DragandDropSimpleDemo.xaml</DependentUpon>
+    </Compile>
     <Compile Include="ContentControl\ExpanderDemo.xaml.cs">
       <DependentUpon>ExpanderDemo.xaml</DependentUpon>
     </Compile>
@@ -161,6 +164,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="ContentControl\ComplexScrollViewer.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ContentControl\DragandDropSimpleDemo.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

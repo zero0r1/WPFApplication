@@ -29,3 +29,4 @@ C:\Users\leahd\Documents\GitHub\WpfApplication\SingleInstanceWithCommunication\o
 C:\Users\leahd\Documents\GitHub\WpfApplication\SingleInstanceWithCommunication\obj\Debug\SingleInstanceWithCommunication.csproj.GenerateResource.Cache
 C:\Users\leahd\Documents\GitHub\WpfApplication\SingleInstanceWithCommunication\obj\Debug\SingleInstanceWithCommunication.exe
 C:\Users\leahd\Documents\GitHub\WpfApplication\SingleInstanceWithCommunication\obj\Debug\SingleInstanceWithCommunication.pdb
+C:\Users\leahd\Documents\GitHub\WpfApplication\SingleInstanceWithCommunication\obj\Debug\SingleInstanceWithCommunication.csproj.CoreCompileInputs.cache

@@ -28,3 +28,4 @@ C:\Users\leahd\Documents\GitHub\WpfApplication\ApplicationEventDemo\obj\Debug\Ap
 C:\Users\leahd\Documents\GitHub\WpfApplication\ApplicationEventDemo\obj\Debug\ApplicationEventDemo.csproj.GenerateResource.Cache
 C:\Users\leahd\Documents\GitHub\WpfApplication\ApplicationEventDemo\obj\Debug\ApplicationEventDemo.exe
 C:\Users\leahd\Documents\GitHub\WpfApplication\ApplicationEventDemo\obj\Debug\ApplicationEventDemo.pdb
+C:\Users\leahd\Documents\GitHub\WpfApplication\ApplicationEventDemo\obj\Debug\ApplicationEventDemo.csproj.CoreCompileInputs.cache

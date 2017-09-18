@@ -24,3 +24,4 @@ C:\Users\leahd\Documents\GitHub\WpfApplication\HandleCommandLineDemo\obj\Debug\H
 C:\Users\leahd\Documents\GitHub\WpfApplication\HandleCommandLineDemo\obj\Debug\HandleCommandLineDemo.csproj.GenerateResource.Cache
 C:\Users\leahd\Documents\GitHub\WpfApplication\HandleCommandLineDemo\obj\Debug\HandleCommandLineDemo.exe
 C:\Users\leahd\Documents\GitHub\WpfApplication\HandleCommandLineDemo\obj\Debug\HandleCommandLineDemo.pdb
+C:\Users\leahd\Documents\GitHub\WpfApplication\HandleCommandLineDemo\obj\Debug\HandleCommandLineDemo.csproj.CoreCompileInputs.cache
