@@ -28,7 +28,6 @@ namespace WPFlayout.ContentControl.DemoDependencyProperty
             }
         }
 
-
         //定义经度
         double lon;
         public double Lon
