@@ -66,6 +66,13 @@
     <Compile Include="ContentControl\ComplexScrollViewer.xaml.cs">
       <DependentUpon>ComplexScrollViewer.xaml</DependentUpon>
     </Compile>
+    <Compile Include="ContentControl\DemoDependencyProperty\Coordinate.cs" />
+    <Compile Include="ContentControl\DemoDependencyProperty\CoordinateBox.xaml.cs">
+      <DependentUpon>CoordinateBox.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ContentControl\DemoDependencyProperty\LatBox.xaml.cs">
+      <DependentUpon>LatBox.xaml</DependentUpon>
+    </Compile>
     <Compile Include="ContentControl\DemoDependencyProperty\MyBook.cs" />
     <Compile Include="ContentControl\DragandDropSimpleDemo.xaml.cs">
       <DependentUpon>DragandDropSimpleDemo.xaml</DependentUpon>
@@ -165,6 +172,14 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="ContentControl\ComplexScrollViewer.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ContentControl\DemoDependencyProperty\CoordinateBox.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ContentControl\DemoDependencyProperty\LatBox.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
