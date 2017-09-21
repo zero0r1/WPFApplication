@@ -63,6 +63,9 @@
     <Compile Include="ContentControl\AttachedEventDemo.xaml.cs">
       <DependentUpon>AttachedEventDemo.xaml</DependentUpon>
     </Compile>
+    <Compile Include="ContentControl\AttachedEvents.xaml.cs">
+      <DependentUpon>AttachedEvents.xaml</DependentUpon>
+    </Compile>
     <Compile Include="ContentControl\ComplexScrollViewer.xaml.cs">
       <DependentUpon>ComplexScrollViewer.xaml</DependentUpon>
     </Compile>
@@ -91,6 +94,9 @@
     </Compile>
     <Compile Include="ContentControl\UnderstandingDp.xaml.cs">
       <DependentUpon>UnderstandingDp.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ContentControl\UnderstandRoutedEvent.xaml.cs">
+      <DependentUpon>UnderstandRoutedEvent.xaml</DependentUpon>
     </Compile>
     <Compile Include="ContentControl\ViewboxDemo.xaml.cs">
       <DependentUpon>ViewboxDemo.xaml</DependentUpon>
@@ -171,6 +177,10 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="ContentControl\AttachedEvents.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="ContentControl\ComplexScrollViewer.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -204,6 +214,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="ContentControl\UnderstandingDp.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ContentControl\UnderstandRoutedEvent.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
