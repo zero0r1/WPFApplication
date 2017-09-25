@@ -144,6 +144,18 @@
     <Compile Include="Layout\WrapPanel.xaml.cs">
       <DependentUpon>WrapPanel.xaml</DependentUpon>
     </Compile>
+    <Compile Include="WPFControl\ChangeCursorDemo.xaml.cs">
+      <DependentUpon>ChangeCursorDemo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WPFControl\ChangeFontDemo.xaml.cs">
+      <DependentUpon>ChangeFontDemo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WPFControl\LinearGradientBruash.xaml.cs">
+      <DependentUpon>LinearGradientBruash.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WPFControl\OpacityDemo.xaml.cs">
+      <DependentUpon>OpacityDemo.xaml</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs">
@@ -281,6 +293,22 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="WPFControl\ChangeCursorDemo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="WPFControl\ChangeFontDemo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="WPFControl\LinearGradientBruash.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="WPFControl\OpacityDemo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
   </ItemGroup>
   <ItemGroup>
     <Resource Include="学习文档\WPF 的控制面板说明.txt" />
@@ -296,6 +324,9 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Resources\ExpanderDemo.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\CustomCursor.cur" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

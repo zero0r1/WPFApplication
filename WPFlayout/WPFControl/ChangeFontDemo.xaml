@@ -1,0 +1,21 @@
+﻿<Window x:Class="WPFlayout.WPFControl.ChangeFontDemo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFlayout.WPFControl"
+        mc:Ignorable="d"
+        Title="ChangeFontDemo" Height="300" Width="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Button Name="btn1" Content="字体示例" FontSize="40"/>
+        <StackPanel Grid.Row="1"  TextBlock.FontSize="39">
+            <TextBlock FontStyle="Normal" FontWeight="UltraBlack"  FontFamily="宋体">宋体</TextBlock>
+            <TextBlock FontStyle="Italic" FontWeight="Normal" FontFamily="幼圆" >幼圆</TextBlock>
+            <TextBlock FontStyle="Oblique" FontWeight="Light" FontFamily="默体" >默体</TextBlock>
+        </StackPanel>
+    </Grid>
+</Window>

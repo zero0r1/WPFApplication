@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\App.xaml
-27-1151326089
+31-1137115609
 
-381699166818
+42-2648901
 14-1001767708
-ContentControl\AttachedEventDemo.xaml;ContentControl\AttachedEvents.xaml;ContentControl\ComplexScrollViewer.xaml;ContentControl\DemoDependencyProperty\CoordinateBox.xaml;ContentControl\DemoDependencyProperty\LatBox.xaml;ContentControl\DragandDropSimpleDemo.xaml;ContentControl\ExpanderDemo.xaml;ContentControl\GroupBoxDemo.xaml;ContentControl\ScrollViewerDemo.xaml;ContentControl\TabItemDemo.xaml;ContentControl\UnderstandingDp.xaml;ContentControl\UnderstandRoutedEvent.xaml;ContentControl\ViewboxDemo.xaml;Layout\CanvasDemo.xaml;ContentControl\ContentPropertyExample.xaml;Layout\DockPanel.xaml;Layout\GridDialogBox.xaml;Layout\GridDialogBoxByCode.xaml;Layout\GridExample.xaml;Layout\GridSplitter2.xaml;Layout\InkCanvasDemo.xaml;Layout\IsSharedSizeScopeDemo.xaml;Layout\SimpleDialog.xaml;Layout\SpanningGrid.xaml;Layout\StackPanel_HorizontalAlignment.xaml;Layout\StackPanel_VerticalAlignment.xaml;Layout\WrapPanel.xaml;
+ContentControl\AttachedEventDemo.xaml;ContentControl\AttachedEvents.xaml;ContentControl\ComplexScrollViewer.xaml;ContentControl\DemoDependencyProperty\CoordinateBox.xaml;ContentControl\DemoDependencyProperty\LatBox.xaml;ContentControl\DragandDropSimpleDemo.xaml;ContentControl\ExpanderDemo.xaml;ContentControl\GroupBoxDemo.xaml;ContentControl\ScrollViewerDemo.xaml;ContentControl\TabItemDemo.xaml;ContentControl\UnderstandingDp.xaml;ContentControl\UnderstandRoutedEvent.xaml;ContentControl\ViewboxDemo.xaml;Layout\CanvasDemo.xaml;ContentControl\ContentPropertyExample.xaml;Layout\DockPanel.xaml;Layout\GridDialogBox.xaml;Layout\GridDialogBoxByCode.xaml;Layout\GridExample.xaml;Layout\GridSplitter2.xaml;Layout\InkCanvasDemo.xaml;Layout\IsSharedSizeScopeDemo.xaml;Layout\SimpleDialog.xaml;Layout\SpanningGrid.xaml;Layout\StackPanel_HorizontalAlignment.xaml;Layout\StackPanel_VerticalAlignment.xaml;Layout\WrapPanel.xaml;WPFControl\ChangeCursorDemo.xaml;WPFControl\ChangeFontDemo.xaml;WPFControl\LinearGradientBruash.xaml;WPFControl\OpacityDemo.xaml;
 
 False
 
