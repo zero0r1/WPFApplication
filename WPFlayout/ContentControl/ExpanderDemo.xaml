@@ -42,7 +42,7 @@
         <Expander Grid.Row="2">
             <Expander.Header>
                 <StackPanel Orientation="Horizontal" Background="AliceBlue">
-                    <Image Width="10" Height="10" Source="C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\Resources\5409d7babf80a.jpg"  Stretch="None"></Image>
+                    <Image Width="10" Height="10" Source="/WPFlayout;component/Resources/5409d7babf80a.jpg"  Stretch="None"></Image>
                     <TextBlock Text="定制标题"/>
                 </StackPanel>
             </Expander.Header>

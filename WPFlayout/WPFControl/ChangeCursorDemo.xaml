@@ -7,6 +7,7 @@
         mc:Ignorable="d"
         Title="更改鼠标光标Demo" Height="450" Width="600">
     <StackPanel>
+        <Image Name="img"></Image>
         <Border Width="300">
             <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
                 <StackPanel Name="sp1" Margin="10">

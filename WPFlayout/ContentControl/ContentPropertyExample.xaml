@@ -21,13 +21,13 @@
         <Button   Grid.Row="0" Name="button2" >为按钮添加一行文本</Button>
         <Button   Grid.Row="1"  >
             <Button.Content>
-                <Image Source="C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\Resources\5409d7babf80a.jpg"></Image>
+                <Image Source="/WPFlayout;component/Resources/5409d7babf80a.jpg"></Image>
             </Button.Content>
         </Button>
         <Button Grid.Row="2" Name="button3">
             <Button.Content>
                 <StackPanel Orientation="Horizontal">
-                    <Image Source="C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\Resources\5409d7babf80a.jpg" Width="Auto" Height="Auto"  ></Image>
+                    <Image Source="/WPFlayout;component/Resources/5409d7babf80a.jpg" Width="Auto" Height="Auto"  ></Image>
                     <TextBlock>使用一个 StackPanl 图文混排</TextBlock>
                 </StackPanel>
             </Button.Content>

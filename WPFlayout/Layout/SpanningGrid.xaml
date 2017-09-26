@@ -23,7 +23,7 @@
         <TextBlock Grid.Column="1" Grid.ColumnSpan="4" Grid.Row="0" TextWrapping="Wrap">
             请输入程序名称, 文件夹, 文档或者Internet资源. Windows将会打开该资源
         </TextBlock>
-        <Image Width="100" Height="100" Grid.Row="0" Grid.RowSpan="2" Stretch="Fill" Visibility="Visible" Source="Resources/5409d7babf80a.jpg"></Image>
+        <Image Width="100" Height="100" Grid.Row="0" Grid.RowSpan="2" Stretch="Fill" Visibility="Visible" Source="/WPFlayout;component/Resources/5409d7babf80a.jpg"></Image>
         <TextBlock Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="5"/>
         <Button Margin="10,0,10,15" Grid.Row="3" Grid.Column="2">确定</Button>
         <Button Margin="10,0,10,15" Grid.Row="3" Grid.Column="3">取消</Button>

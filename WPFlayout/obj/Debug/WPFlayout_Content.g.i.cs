@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("wpfcontrol/customcursor.cur")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("resources/snap2.jpg")]
 
 

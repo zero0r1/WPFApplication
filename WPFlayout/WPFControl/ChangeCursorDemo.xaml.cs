@@ -1,7 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
+using System.Drawing;
 using System.IO;
 using System.Linq;
+using System.Reflection;
+using System.Resources;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
@@ -12,6 +14,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using WPFlayout.Properties;
 
 namespace WPFlayout.WPFControl
 {
@@ -34,7 +37,33 @@ namespace WPFlayout.WPFControl
         {
             InitializeComponent();
 
+
+            //var resourceManager = new ResourceManager(typeof(Resources));
+            //var bitmap = resourceManager.GetObject("_5409d7babf80a") as Bitmap;
+            //OR
+            //img.Source = Convert(WPFlayout.Properties.Resources._5409d7babf80a);
+
+            Stream stream = new MemoryStream(WPFlayout.Properties.Resources.CustomCursor);
             CustomCursor = new Cursor(Global.GetWorkPath("CustomCursor.cur"));
+            //OR
+            CustomCursor = new Cursor(stream);
+        }
+
+        /// <summary>
+        /// Takes a bitmap and converts it to an image that can be handled by WPF ImageBrush
+        /// </summary>
+        /// <param name="src">A bitmap image</param>
+        /// <returns>The image as a BitmapImage for WPF</returns>
+        public BitmapImage Convert(Bitmap src)
+        {
+            MemoryStream ms = new MemoryStream();
+            ((System.Drawing.Bitmap)src).Save(ms, System.Drawing.Imaging.ImageFormat.Bmp);
+            BitmapImage image = new BitmapImage();
+            image.BeginInit();
+            ms.Seek(0, SeekOrigin.Begin);
+            image.StreamSource = ms;
+            image.EndInit();
+            return image;
         }
 
         private void CursorTypeChanged(object sender, SelectionChangedEventArgs e)

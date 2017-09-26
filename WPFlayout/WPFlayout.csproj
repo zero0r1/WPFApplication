@@ -60,6 +60,21 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="ContentControl2\ButtonBaseDemo.xaml.cs">
+      <DependentUpon>ButtonBaseDemo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ContentControl2\LabelDemo.xaml.cs">
+      <DependentUpon>LabelDemo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ContentControl2\Popup.xaml.cs">
+      <DependentUpon>Popup.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ContentControl2\RepeatToggleButton.xaml.cs">
+      <DependentUpon>RepeatToggleButton.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ContentControl2\ToolTip.xaml.cs">
+      <DependentUpon>ToolTip.xaml</DependentUpon>
+    </Compile>
     <Compile Include="ContentControl\AttachedEventDemo.xaml.cs">
       <DependentUpon>AttachedEventDemo.xaml</DependentUpon>
     </Compile>
@@ -174,6 +189,7 @@
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -185,6 +201,26 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Page Include="ContentControl2\ButtonBaseDemo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ContentControl2\LabelDemo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ContentControl2\Popup.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ContentControl2\RepeatToggleButton.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ContentControl2\ToolTip.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="ContentControl\AttachedEventDemo.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -327,6 +363,12 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Resources\CustomCursor.cur" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\InsertPictureHH.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Snap2.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

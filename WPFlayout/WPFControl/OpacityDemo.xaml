@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="元素不透明度设置" Height="300" Width="300">
     <Window.Background>
-        <ImageBrush ImageSource="C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\Resources\5409d7babf80a.jpg" Stretch="UniformToFill" Opacity="0.8"/>
+        <ImageBrush ImageSource="/WPFlayout;component/Resources/5409d7babf80a.jpg" Stretch="UniformToFill" Opacity="0.8"/>
     </Window.Background>
     <Grid>
         <Grid.RowDefinitions>

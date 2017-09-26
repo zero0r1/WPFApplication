@@ -74,3 +74,13 @@ C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\WPFControl\Ch
 C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\WPFControl\ChangeFontDemo.baml
 C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\WPFControl\ChangeCursorDemo.g.cs
 C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\WPFControl\ChangeCursorDemo.baml
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\ContentControl2\LabelDemo.g.cs
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\ContentControl2\LabelDemo.baml
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\ContentControl2\ButtonBaseDemo.g.cs
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\ContentControl2\ButtonBaseDemo.baml
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\ContentControl2\RepeatToggleButton.g.cs
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\ContentControl2\RepeatToggleButton.baml
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\ContentControl2\ToolTip.g.cs
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\ContentControl2\ToolTip.baml
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\ContentControl2\Popup.g.cs
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\ContentControl2\Popup.baml
