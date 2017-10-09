@@ -69,8 +69,14 @@
     <Compile Include="ContentControl2\Popup.xaml.cs">
       <DependentUpon>Popup.xaml</DependentUpon>
     </Compile>
+    <Compile Include="ContentControl2\ProgressBarDemo.xaml.cs">
+      <DependentUpon>ProgressBarDemo.xaml</DependentUpon>
+    </Compile>
     <Compile Include="ContentControl2\RepeatToggleButton.xaml.cs">
       <DependentUpon>RepeatToggleButton.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ContentControl2\TextBlockDemo.xaml.cs">
+      <DependentUpon>TextBlockDemo.xaml</DependentUpon>
     </Compile>
     <Compile Include="ContentControl2\ToolTip.xaml.cs">
       <DependentUpon>ToolTip.xaml</DependentUpon>
@@ -159,6 +165,12 @@
     <Compile Include="Layout\WrapPanel.xaml.cs">
       <DependentUpon>WrapPanel.xaml</DependentUpon>
     </Compile>
+    <Compile Include="ListControl\ComplexComboBox.xaml.cs">
+      <DependentUpon>ComplexComboBox.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ListControl\ListBoxDemo.xaml.cs">
+      <DependentUpon>ListBoxDemo.xaml</DependentUpon>
+    </Compile>
     <Compile Include="WPFControl\ChangeCursorDemo.xaml.cs">
       <DependentUpon>ChangeCursorDemo.xaml</DependentUpon>
     </Compile>
@@ -213,7 +225,15 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="ContentControl2\ProgressBarDemo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="ContentControl2\RepeatToggleButton.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ContentControl2\TextBlockDemo.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -329,6 +349,14 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="ListControl\ComplexComboBox.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ListControl\ListBoxDemo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="WPFControl\ChangeCursorDemo.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -365,10 +393,19 @@
     <Resource Include="Resources\CustomCursor.cur" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Resources\InsertPictureHH.bmp" />
+    <None Include="Resources\Snap2.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Snap2.jpg" />
+    <None Include="Resources\PropertiesHH.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\InsertPictureHH.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MultiplePagesHH.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OpenPH.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

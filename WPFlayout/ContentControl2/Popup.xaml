@@ -28,8 +28,10 @@
 
         <Canvas Width="200" Height="150" Grid.Row="1">
             <Image Name="image1"
-         Canvas.Left="40" 
-         Source="pack://siteoforigin:,,,/Resources/Snap2.jpg" Stretch="None"/>
+              Height="140"
+              Width="150"
+             Canvas.Left="29" 
+             Source="/WPFlayout;component/Resources/5409d7babf80a.jpg" Stretch="None" Canvas.Top="5"/>
             <!--将Placement指定为Bottom，表示放在目标对象的下面-->
             <Popup IsOpen="True" PlacementTarget="{Binding ElementName=image1}"
          Placement="Bottom">

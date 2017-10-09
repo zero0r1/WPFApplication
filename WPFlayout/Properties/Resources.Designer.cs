@@ -93,6 +93,36 @@ namespace WPFlayout.Properties {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
+        internal static System.Drawing.Bitmap MultiplePagesHH {
+            get {
+                object obj = ResourceManager.GetObject("MultiplePagesHH", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap OpenPH {
+            get {
+                object obj = ResourceManager.GetObject("OpenPH", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap PropertiesHH {
+            get {
+                object obj = ResourceManager.GetObject("PropertiesHH", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
         internal static System.Drawing.Bitmap Snap2 {
             get {
                 object obj = ResourceManager.GetObject("Snap2", resourceCulture);
