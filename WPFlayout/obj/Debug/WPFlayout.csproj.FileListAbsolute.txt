@@ -92,3 +92,5 @@ C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\ListControl\L
 C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\ListControl\ListBoxDemo.baml
 C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\ListControl\ComplexComboBox.g.cs
 C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\ListControl\ComplexComboBox.baml
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\ContentControl2\SliderDemo.g.cs
+C:\Users\leahd\Documents\GitHub\WpfApplication\WPFlayout\obj\Debug\ContentControl2\SliderDemo.baml
