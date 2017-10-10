@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateApplicationByHand", "CreateApplicationByHand\CreateApplicationByHand.csproj", "{B869857F-7D4E-4BAA-8FF7-2BC4CABB94EF}"
 EndProject
@@ -14,6 +14,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleInstanceWithCommunication", "SingleInstanceWithCommunication\SingleInstanceWithCommunication.csproj", "{8B773EBC-3446-4CD0-9FA7-CAA96D9CF9B3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFlayout", "WPFlayout\WPFlayout.csproj", "{51199157-38A7-4431-9906-050E6208FA88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsNavigation", "WindowsNavigation\WindowsNavigation.csproj", "{6D2CA48F-ED1F-4DD7-B16A-BA1F4AAC91CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,8 +47,15 @@ Global
 		{51199157-38A7-4431-9906-050E6208FA88}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51199157-38A7-4431-9906-050E6208FA88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51199157-38A7-4431-9906-050E6208FA88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D2CA48F-ED1F-4DD7-B16A-BA1F4AAC91CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D2CA48F-ED1F-4DD7-B16A-BA1F4AAC91CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D2CA48F-ED1F-4DD7-B16A-BA1F4AAC91CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D2CA48F-ED1F-4DD7-B16A-BA1F4AAC91CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D70EBF7D-CFEA-4C33-88D9-FF8C9E32132E}
 	EndGlobalSection
 EndGlobal

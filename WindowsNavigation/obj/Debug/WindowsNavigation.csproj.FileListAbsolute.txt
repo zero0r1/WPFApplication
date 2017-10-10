@@ -1,0 +1,15 @@
+C:\Users\leahd\Documents\GitHub\WpfApplication\WindowsNavigation\bin\Debug\WindowsNavigation.exe.config
+C:\Users\leahd\Documents\GitHub\WpfApplication\WindowsNavigation\bin\Debug\WindowsNavigation.exe
+C:\Users\leahd\Documents\GitHub\WpfApplication\WindowsNavigation\bin\Debug\WindowsNavigation.pdb
+C:\Users\leahd\Documents\GitHub\WpfApplication\WindowsNavigation\obj\Debug\WindowsNavigation.csprojResolveAssemblyReference.cache
+C:\Users\leahd\Documents\GitHub\WpfApplication\WindowsNavigation\obj\Debug\WindowLifetime.g.cs
+C:\Users\leahd\Documents\GitHub\WpfApplication\WindowsNavigation\obj\Debug\App.g.cs
+C:\Users\leahd\Documents\GitHub\WpfApplication\WindowsNavigation\obj\Debug\WindowsNavigation_MarkupCompile.cache
+C:\Users\leahd\Documents\GitHub\WpfApplication\WindowsNavigation\obj\Debug\WindowsNavigation_MarkupCompile.lref
+C:\Users\leahd\Documents\GitHub\WpfApplication\WindowsNavigation\obj\Debug\WindowLifetime.baml
+C:\Users\leahd\Documents\GitHub\WpfApplication\WindowsNavigation\obj\Debug\WindowsNavigation.g.resources
+C:\Users\leahd\Documents\GitHub\WpfApplication\WindowsNavigation\obj\Debug\WindowsNavigation.Properties.Resources.resources
+C:\Users\leahd\Documents\GitHub\WpfApplication\WindowsNavigation\obj\Debug\WindowsNavigation.csproj.GenerateResource.Cache
+C:\Users\leahd\Documents\GitHub\WpfApplication\WindowsNavigation\obj\Debug\WindowsNavigation.csproj.CoreCompileInputs.cache
+C:\Users\leahd\Documents\GitHub\WpfApplication\WindowsNavigation\obj\Debug\WindowsNavigation.exe
+C:\Users\leahd\Documents\GitHub\WpfApplication\WindowsNavigation\obj\Debug\WindowsNavigation.pdb
