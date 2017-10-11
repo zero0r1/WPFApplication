@@ -58,6 +58,27 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="DrawShapeWindow.xaml.cs">
+      <DependentUpon>DrawShapeWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FirstNavigateApp.xaml.cs">
+      <DependentUpon>FirstNavigateApp.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Hyperlinkdemo\FragmentNavigate.xaml.cs">
+      <DependentUpon>FragmentNavigate.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Hyperlinkdemo\Page1.xaml.cs">
+      <DependentUpon>Page1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Hyperlinkdemo\Page2.xaml.cs">
+      <DependentUpon>Page2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page1.xaml.cs">
+      <DependentUpon>Page1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SharpedWindow.xaml.cs">
+      <DependentUpon>SharpedWindow.xaml</DependentUpon>
+    </Compile>
     <Compile Include="WindowLifetime.xaml.cs">
       <DependentUpon>WindowLifetime.xaml</DependentUpon>
     </Compile>
@@ -89,10 +110,41 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Page Include="DrawShapeWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="FirstNavigateApp.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Hyperlinkdemo\FragmentNavigate.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Hyperlinkdemo\Page1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Hyperlinkdemo\Page2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="SharpedWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="WindowLifetime.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="NavigationEventDemo\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

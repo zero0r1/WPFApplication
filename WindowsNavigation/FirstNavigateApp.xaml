@@ -1,0 +1,21 @@
+﻿<Window x:Class="WindowsNavigation.FirstNavigateApp"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WindowsNavigation"
+        mc:Ignorable="d"
+        Title="FirstNavigateApp" Height="300" Width="300"
+>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <TextBlock Text="点击下面的超级链接导航到另外的页面"></TextBlock>
+        <!--在TextBlock中添加一个链接，使之导航到Page2.xaml-->
+        <TextBlock VerticalAlignment="Bottom" Grid.Row="1">
+            <Hyperlink NavigateUri="Page1.xaml">点击导航到另外的页面</Hyperlink>
+        </TextBlock>
+    </Grid>
+</Window>

@@ -13,3 +13,17 @@ C:\Users\leahd\Documents\GitHub\WpfApplication\WindowsNavigation\obj\Debug\Windo
 C:\Users\leahd\Documents\GitHub\WpfApplication\WindowsNavigation\obj\Debug\WindowsNavigation.csproj.CoreCompileInputs.cache
 C:\Users\leahd\Documents\GitHub\WpfApplication\WindowsNavigation\obj\Debug\WindowsNavigation.exe
 C:\Users\leahd\Documents\GitHub\WpfApplication\WindowsNavigation\obj\Debug\WindowsNavigation.pdb
+C:\Users\leahd\Documents\GitHub\WpfApplication\WindowsNavigation\obj\Debug\SharpedWindow.g.cs
+C:\Users\leahd\Documents\GitHub\WpfApplication\WindowsNavigation\obj\Debug\SharpedWindow.baml
+C:\Users\leahd\Documents\GitHub\WpfApplication\WindowsNavigation\obj\Debug\DrawShapeWindow.g.cs
+C:\Users\leahd\Documents\GitHub\WpfApplication\WindowsNavigation\obj\Debug\DrawShapeWindow.baml
+C:\Users\leahd\Documents\GitHub\WpfApplication\WindowsNavigation\obj\Debug\FirstNavigateApp.g.cs
+C:\Users\leahd\Documents\GitHub\WpfApplication\WindowsNavigation\obj\Debug\FirstNavigateApp.baml
+C:\Users\leahd\Documents\GitHub\WpfApplication\WindowsNavigation\obj\Debug\Hyperlinkdemo\FragmentNavigate.g.cs
+C:\Users\leahd\Documents\GitHub\WpfApplication\WindowsNavigation\obj\Debug\Hyperlinkdemo\Page1.g.cs
+C:\Users\leahd\Documents\GitHub\WpfApplication\WindowsNavigation\obj\Debug\Hyperlinkdemo\Page2.g.cs
+C:\Users\leahd\Documents\GitHub\WpfApplication\WindowsNavigation\obj\Debug\Hyperlinkdemo\FragmentNavigate.baml
+C:\Users\leahd\Documents\GitHub\WpfApplication\WindowsNavigation\obj\Debug\Hyperlinkdemo\Page1.baml
+C:\Users\leahd\Documents\GitHub\WpfApplication\WindowsNavigation\obj\Debug\Hyperlinkdemo\Page2.baml
+C:\Users\leahd\Documents\GitHub\WpfApplication\WindowsNavigation\obj\Debug\Page1.g.cs
+C:\Users\leahd\Documents\GitHub\WpfApplication\WindowsNavigation\obj\Debug\Page1.baml
